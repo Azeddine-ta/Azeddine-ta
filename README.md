@@ -33,4 +33,4 @@ I work in **cybersecurity** and build software **for fun** — mostly focused on
 
 ### Featured Public Project
 
-- [**SecureSignal-Desktop**](https://github.com/Azeddine-ta/SecureSignal-Desktop) — Hardened, OLED-first, zero-telemetry Signal Desktop client for Linux & macOS ().
+- [**SecureSignal-Desktop**](https://github.com/Azeddine-ta/SecureSignal-Desktop) — Hardened, OLED-first, zero-telemetry Signal Desktop client for Linux & macOS (AGPLv3).
