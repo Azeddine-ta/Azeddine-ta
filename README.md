@@ -10,10 +10,10 @@ My work focuses on attack-surface reduction, telemetry elimination, and defensiv
 - **Infrastructure** — Reproducible Linux/macOS build pipelines and self-hosted homelab environments.
 
 #### Stack
- ·  ·  ·  ·  ·  · 
+`C++` · `TypeScript` · `Kotlin` · `Python` · `Qt6` · `Linux` · `macOS`
 
 #### Public Work
-- [**SecureSignal-Desktop**](https://github.com/Azeddine-ta/SecureSignal-Desktop) — Hardened, zero-telemetry Signal Desktop client for Linux and macOS ().
+- [**SecureSignal-Desktop**](https://github.com/Azeddine-ta/SecureSignal-Desktop) — Hardened, zero-telemetry Signal Desktop client for Linux and macOS (`AGPLv3`).
 
 #### Contact
 - Telegram: [t.me/mr_azeddine_ta](https://t.me/mr_azeddine_ta)
